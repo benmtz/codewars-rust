@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/unique_in_order_6/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/primes_in_numbers_5/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_kyu/john_ann_signup_codewars/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_kyu/factorial_decommposition/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_kyu/array_diff/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/6_kyu/move_in_squared_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5_kyu/find_the_smallest/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/5_kyu/factorial_decommposition/target" />
+      <excludeFolder url="file://$MODULE_DIR$/5_kyu/find_the_smallest/target" />
+      <excludeFolder url="file://$MODULE_DIR$/5_kyu/john_ann_signup_codewars/target" />
+      <excludeFolder url="file://$MODULE_DIR$/6_kyu/array_diff/target" />
+      <excludeFolder url="file://$MODULE_DIR$/6_kyu/move_in_squared_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/primes_in_numbers_5/target" />
+      <excludeFolder url="file://$MODULE_DIR$/unique_in_order_6/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
